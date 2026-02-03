@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chithra 👋</h1>
 
 ## 🚀 I'm currently working on:
--Machine Learning and Deep Learning Projects.
+- Machine Learning and Deep Learning Projects.
 - Learning advanced programming concepts.
 
 ## 🤝 I'm looking to collaborate on:
@@ -14,6 +14,8 @@
 - Machine Learning
 - Deep Learning Basics
 - Cloud Deployment
+- Java and C++ in depth
+- DSA
 
 ## 🌱 Interests:
 AI & ML,Deep Learning Web Development, Open Source
@@ -38,6 +40,8 @@ AI & ML,Deep Learning Web Development, Open Source
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 
 
