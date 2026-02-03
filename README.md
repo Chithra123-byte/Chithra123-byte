@@ -18,7 +18,7 @@
 - DSA
 
 ## 🌱 Interests:
-AI & ML,Deep Learning Web Development, Open Source
+AI & ML,Deep Learning ,Web Development, Open Source
 
 ---
 
