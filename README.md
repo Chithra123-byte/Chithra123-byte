@@ -3,6 +3,7 @@
 ## 🚀 I'm currently working on:
 - Machine Learning and Deep Learning Projects.
 - Learning advanced programming concepts.
+- Working on DataBase(NoSQL)
 
 ## 🤝 I'm looking to collaborate on:
 - Web Development Projects
@@ -18,7 +19,7 @@
 - DSA
 
 ## 🌱 Interests:
-AI & ML,Web Development,Software development,Deep Learning ,Open Source
+AI & ML,Web Development,Software development,Deep Learning ,Open Source,DataScience,Database System(NoSQL)
 
 ---
 
