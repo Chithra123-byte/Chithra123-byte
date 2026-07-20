@@ -4,11 +4,15 @@
 - Machine Learning and Deep Learning Projects.
 - Learning advanced programming concepts.
 - Working on DataBase(NoSQL-MOngoDB)
+- MERN Stack
 
 ## 🤝 I'm looking to collaborate on:
 - Web Development Projects
 - Python
 - Open-source contributions
+- Java
+- Full Stack Developer
+- ML and DL projects
 
 ## 📚 I'm currently learning:
 - Full Stack Development
