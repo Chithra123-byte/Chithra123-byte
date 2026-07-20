@@ -23,7 +23,7 @@
 - DSA
 
 ## 🌱 Interests:
-AI & ML,Web Development,Software development,Deep Learning ,Open Source,DataScience,Database System(NoSQL,SQL)
+AI & ML,Web Development,Software development,Deep Learning ,Open Source,DataScience,Database System(NoSQL,SQL),Full Stack development,Mobile application
 
 ---
 
