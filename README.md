@@ -13,6 +13,8 @@
 - Java
 - Full Stack Developer
 - ML and DL projects
+- Cloud Project
+- 
 
 ## 📚 I'm currently learning:
 - Full Stack Development
