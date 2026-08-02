@@ -4,7 +4,7 @@
 - Machine Learning and Deep Learning Projects.
 - Learning advanced programming concepts.
 - Working on DataBase(NoSQL-MOngoDB)
-- MERN Stack
+-Devops
 
 ## 🤝 I'm looking to collaborate on:
 - Web Development Projects
@@ -25,7 +25,7 @@
 - DSA
 
 ## 🌱 Interests:
-AI & ML,Web Development,Software development,Deep Learning ,Open Source,DataScience,Database System(NoSQL,SQL),Full Stack development,Mobile application
+AI & ML,Web Development,Software development,Devops,Deep Learning ,Open Source,DataScience,Database System(NoSQL,SQL),Full Stack development,Mobile application
 
 ---
 
