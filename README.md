@@ -71,6 +71,4 @@ AI & ML,Web Development,Software development,Devops,Deep Learning ,Open Source,D
 
 ![Top Languages](https://github-readme-stats-3rjqnkfbo-chithra18ardi-7825s-projects.vercel.app/api/top-langs/?username=chithra123-byte&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats-3rjqnkfbo-chithra18ardi-7825s-projects.vercel.app/api?username=chithra123-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-3rjqnkfbo-chithra18ardi-7825s-projects.vercel.app/api/top-langs/?username=chithra123-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
