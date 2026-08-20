@@ -67,5 +67,5 @@ AI & ML,Web Development,Software development,Devops,Deep Learning ,Open Source,D
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chithra123-byte&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chithra123-byte&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chithra123-byte&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chithra123-byte&layout=compact&theme=tokyonight)
