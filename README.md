@@ -6,6 +6,7 @@
 - Working on DataBase(NoSQL-MOngoDB)
 -Devops
 
+
 ## 🤝 I'm looking to collaborate on:
 - Web Development Projects
 - Python
@@ -22,6 +23,7 @@
 - Cloud Deployment
 - Java and C++ in depth
 - DSA
+- RAG 
 
 ## 🌱 Interests:
 AI & ML,Web Development,Software development,Devops,Deep Learning ,Open Source,DataScience,Database System(NoSQL,SQL),Full Stack development,Mobile application
@@ -62,12 +64,6 @@ AI & ML,Web Development,Software development,Devops,Deep Learning ,Open Source,D
 
 
 
----
 
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats-3rjqnkfbo-chithra18ardi-7825s-projects.vercel.app/api?username=chithra123-byte&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-3rjqnkfbo-chithra18ardi-7825s-projects.vercel.app/api/top-langs/?username=chithra123-byte&layout=compact&theme=tokyonight)
 
 
