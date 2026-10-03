@@ -3,7 +3,7 @@
 ## 🚀 I'm currently working on:
 - Machine Learning and Deep Learning Projects.
 - Learning advanced programming concepts.
-- Working on DataBase(NoSQL-MOngoDB)
+- Working on DataBase(NoSQL-MongoDB)
 -Devops
 
 
